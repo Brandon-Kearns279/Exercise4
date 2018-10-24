@@ -14,10 +14,10 @@ import javax.swing.JOptionPane;
 public class Exercise4 {
 
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "    /\\**/\\\n" +
-"   ( o_o  )_)\n" +
-"   ,(u  u  ,),\n" +
-"  {}{}{}{}{}{}");
+        JOptionPane.showMessageDialog(null, "    ()  ()\n" +
+"   (0w0)\n" +
+"   (>   <)\n" +
+"  {}{}{}{}");
     }
     
 }
